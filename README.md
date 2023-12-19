@@ -1,0 +1,1 @@
+We examine the performance of four machine learning algorithms: Multilayer Perceptron (MLP), Convolutional Neural Network (CNN), Random Forest, and Support Vector Machine (SVM) on BloodMNIST dataset. Our aim is to find the best parameters for each model and compare the performance of those four algorithms using accuracy score and F1-score.
